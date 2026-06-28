@@ -1,187 +1,74 @@
-# 🚀 l8wy | Full-Stack Developer & Software Engineer
-
-> *Passionate about building scalable solutions, crafting elegant code, and turning ideas into reality.*
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=800&pause=800&color=F70000&background=FFC35C00&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Lewy;I+am+Mini+Developer;I+am+Music+Visualizer;I+am+Mix+Producer)](https://git.io/typing-svg)
+<div align="center">
+  
 ---
+</div>
+<div align="center">
+ 
+[![GitHub Stats](https://streak-stats.demolab.com?user=l8wy&theme=rust-ferris-dark&border_radius=50&locale=en&card_width=500&card_height=200&stroke=EBEBEB&fire=EB4B00&ring=FF0000&currStreakNum=EB3800&sideNums=FF3838&currStreakLabel=FF0000&sideLabels=EB2F2F&dates=EB2700&border=EB0000)](https://git.io/streak-stats)
 
-## 🎯 About Me
+[![l8wy Github Graphic Stats](https://github-readme-activity-graph.vercel.app/graph?username=l8wy&bg_color=000000&color=ff0000&line=7a0000&point=ff5900&area=true&border_radius=50&border_color=FF0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-I'm a self-taught full-stack software developer with a deep passion for technology and problem-solving. I specialize in building modern, efficient applications using cutting-edge technologies. My approach combines clean code practices with innovative solutions to create software that not only works but excels.
-
-With hands-on experience across the entire development stack, I focus on:
-- 🔧 **Building scalable backend systems** with microservices architecture
-- 🎨 **Creating responsive and intuitive frontend experiences**
-- 💾 **Designing robust database solutions** for complex data structures
-- 🚀 **Deploying production-ready applications** with best practices
-
+</div>
+<div align="center">
+  
 ---
+  
+  <h2>🛠️ My Favorite Tools</h2>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-## 💻 Technical Stack
+  <h3>👨‍💻 Programming Languages</h3>
 
-### 🔤 Programming Languages
+  <p>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <br>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Al8wy+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  </p>
 
-```
-┌─────────────────────────────────────────────┐
-│  JavaScript │ TypeScript │ Python │ PHP    │
-│  Ruby       │ SQL        │ NoSQL  │ ...    │
-└─────────────────────────────────────────────┘
-```
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <br>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+
+  <p>
+      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <br>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
+  
+</div>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+---
+
+<i>Follow Me:</i><br>
+
+<a href="https://t.me/l8wys" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.instagram.com/mrtylcs" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/@lewyfx" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 </div>
-
-### 🌐 Frontend Technologies
-
-<div align="center">
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-Templates-B4CA3A?style=for-the-badge&logo=ejs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### ⚙️ Backend & Frameworks
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge)
-
-</div>
-
-### 💾 Database & Data Management
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-### 🛠️ Tools & Platforms
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📈 Development Philosophy
-
-```javascript
-const myApproach = {
-  codeQuality: "Clean, maintainable, and well-documented",
-  problemSolving: "Analytical and creative thinking",
-  learning: "Continuous improvement and adaptation",
-  collaboration: "Open to feedback and teamwork",
-  performance: "Optimized solutions that scale efficiently"
-};
-```
-
----
-
-## 🎓 Expertise Areas
-
-| 🔧 **Backend Development** | 🎨 **Frontend Development** | 💾 **Database Design** |
-|:---:|:---:|:---:|
-| API Design & Development | Responsive UI/UX | Data Modeling |
-| Microservices Architecture | Component-Based Development | Query Optimization |
-| Authentication & Security | User Interaction | Database Performance |
-| Business Logic | State Management | Data Integrity |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l8wy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l8wy&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l8wy&theme=tokyonight&hide_border=true)](https://github.com/l8wy)
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-- 🔨 Building scalable applications with **NestJS**
-- 🗄️ Optimizing database performance and architecture
-- 📚 Exploring advanced **system design** patterns
-- 🌍 Contributing to open-source projects
-- 🧠 Mastering **microservices** and cloud deployment
-
----
-
-## 💡 My Development Stack Summary
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                    FULL-STACK DEVELOPER                 │
-├─────────────────────────────────────────────────────────┤
-│  Frontend:  Vue.js │ JavaScript │ TypeScript │ EJS      │
-│  Backend:   NestJS │ Node.js │ Express │ PHP            │
-│  Database:  MongoDB │ PostgreSQL │ MySQL │ Redis        │
-│  Tools:     Docker │ Git │ Linux │ REST APIs           │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l8wy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/l8wy)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/l8wy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@l8wy.dev)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l8wy)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrtylcs)
-
-</div>
-
----
-
-## 💬 A Little About Me
-
-I believe in the power of clean code, continuous learning, and innovative problem-solving. Every project is an opportunity to improve and grow. I'm always open to collaborations, new challenges, and interesting opportunities.
-
-> "The best code is not just about functionality—it's about clarity, elegance, and maintainability."
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile! Feel free to explore my projects and get in touch.
-
-![Profile Views](https://komarev.com/ghpvc/?username=l8wy&color=blue)
-
-**Happy Coding! 🚀**
-
-</div>
-
----
-
-*Last updated: June 2026*
